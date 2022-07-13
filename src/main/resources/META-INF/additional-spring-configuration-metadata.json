@@ -1,0 +1,23 @@
+{
+  "properties": [
+    {
+      "name": "replicationFactor",
+      "type": "java.lang.String",
+      "description": "Description for replicationFactor."
+    },
+    {
+      "name": "kafka",
+      "type": "java.lang.String",
+      "description": "Description for kafka."
+    },
+    {
+      "name": "redis.port",
+      "type": "java.lang.String",
+      "description": "Description for redis.port."
+    },
+    {
+      "name": "redis.hostname",
+      "type": "java.lang.String",
+      "description": "Description for redis.hostname."
+    }
+  ] }
